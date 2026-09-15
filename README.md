@@ -15,7 +15,7 @@ Here you will find my public repositories with direct links — most of them are
 
 - **[P4-AalborgGuessr](https://github.com/andreasmartenss/P4-AalborgGuessr)** – 4th semester project at BaIT ("Development of a Mobile Application") — a Flutter application with sensors.
 - **[P3-RentHeadAtAiport](https://github.com/andreasmartenss/P3-RentHeadAtAiport)** – 3rd semester project on "Development of a Database system with a specific usage" — a conceptually self-sufficient rental system for headphones at airports.
-- **[P2-Aamus1](https://github.com/andreasmartenss/P2-Aamus1)** – 2nd semester project about constructing and evaluating an IT-system, developed in cooperation with Aalborg Music Association.
+- **[P2-Aamus1](https://github.com/andreasmartenss/P2-Aamus1)** – 2nd semester project about "constructing and evaluating an IT-system", developed in cooperation with Aalborg Music Association.
 - **[GOOP-miniprojekt](https://github.com/andreasmartenss/GOOP-miniprojekt)** – Mini-project for the "Fundamental Object Oriented Programming" exam — a table with buttons and built-in functionalities/logic.
 
 
