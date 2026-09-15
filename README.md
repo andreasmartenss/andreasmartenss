@@ -11,7 +11,7 @@ Welcome to my Github profile!
 
 Here you will find my public repositories with direct links — most of them are semester projects from my education in information technology at Aalborg University.
 
-## Featured Projects
+### Featured Projects
 
 - **[P4-AalborgGuessr](https://github.com/andreasmartenss/P4-AalborgGuessr)** – 4th semester project at BaIT ("Development of a Mobile Application") — a Flutter application with sensors.
 - **[P3-RentHeadAtAiport](https://github.com/andreasmartenss/P3-RentHeadAtAiport)** – 3rd semester project on "Development of a Database system with a specific usage" — a conceptually self-sufficient rental system for headphones at airports.
