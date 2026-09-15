@@ -21,5 +21,5 @@ Here you will find my public repositories with direct links — most of them are
 
 ## Contact
 
-- 📩 Email: [andreasmdk@gmail,com](mailto:andreasmdk@gmail.com)
+- 📩 Email: [andreasmdk@gmail.com](mailto:andreasmdk@gmail.com)
 
